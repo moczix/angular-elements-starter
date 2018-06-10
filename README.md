@@ -8,9 +8,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 rename tag inside index.html in src directory
 
-## After clone
-Rename project name in package.json, rename component or create new one, rename project name in gulp file
-
 ## Build Element
 Run `npm run element-build` its build your element with ng build --prod and then concentate it with gulp
 
